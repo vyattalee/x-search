@@ -1,6 +1,6 @@
 # Building a Full-Text Search App Using Docker and Elasticsearch
 
-author: li jie
+author: Li Jie
 
 email:  jie.n.li@nokia-sbell.com
 
