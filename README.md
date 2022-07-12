@@ -2,7 +2,7 @@
 
 author: Li Jie
 
-email:  jie.n.li@nokia-sbell.com
+email:  lijieking@gmail.com
 
 In this tutorial, we'll walk through setting up our own full-text search application (of an admittedly lesser complexity than the systems in the questions above).  Our example app will provide a UI and API to search the complete texts of 100 literary classics such as *ClearQuest*, *Wiki*, and *Web Library*.
 
